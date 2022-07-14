@@ -1,0 +1,15 @@
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\bin\Debug\net6.0\MultiValueDictionary.exe
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\bin\Debug\net6.0\MultiValueDictionary.deps.json
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\bin\Debug\net6.0\MultiValueDictionary.runtimeconfig.json
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\bin\Debug\net6.0\MultiValueDictionary.dll
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\bin\Debug\net6.0\MultiValueDictionary.pdb
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\MultiValueDictionary.csproj.AssemblyReference.cache
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\MultiValueDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\MultiValueDictionary.AssemblyInfoInputs.cache
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\MultiValueDictionary.AssemblyInfo.cs
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\MultiValueDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\MultiValueDictionary.dll
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\refint\MultiValueDictionary.dll
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\MultiValueDictionary.pdb
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\MultiValueDictionary.genruntimeconfig.cache
+C:\Users\Vishnu\source\repos\MultiValueDictionary\MultiValueDictionary\obj\Debug\net6.0\ref\MultiValueDictionary.dll
